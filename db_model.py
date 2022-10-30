@@ -16,3 +16,6 @@ def delete_account1():
 
 def update_account2():
     return 1234
+
+def update_account3():
+    return 1234
