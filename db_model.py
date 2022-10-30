@@ -13,3 +13,6 @@ def update_account1():
 
 def delete_account1():
     print("delete account")
+
+def update_account2():
+    return 1234
