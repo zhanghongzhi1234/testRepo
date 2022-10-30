@@ -4,5 +4,6 @@ def get_account():
 def update_account():
     return 1234
 
+# I add by myself
 def delete_account():
     print("delete account")
