@@ -13,3 +13,6 @@ def update_account1():
 
 def delete_account1():
     print("delete account")
+
+def delete_account2():
+    print("delete account")
