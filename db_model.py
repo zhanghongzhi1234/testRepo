@@ -3,3 +3,6 @@ def get_account():
 
 def update_account():
     return 1234
+
+def delete_account():
+    print("delete account")
